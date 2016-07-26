@@ -18,6 +18,11 @@ linkedin_username: abhinavkurada
 
 author:
   twitter: abhinavkurada
+  
+  facebook: 
+    app_id: 1822670604630103
+    publisher: 1822670604630103
+    admins: 1822670604630103
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: e86f974d8e6e5c39
