@@ -1,23 +1,24 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+title: Abhinav's Blog
+header-img: img/nyc.jpg
+email: abhinav.kurada@columbia.edu
 copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Abhinav Kurada | I am an incoming Egleston Scholar at Columbia University."
 url: "http://akurada.tech"
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/blog"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+twitter_username: abhinavkurada
+github_username:  akurada
+facebook_username:  abhinav.kurada
+email_username:  abhinav.kurada@columbia.edu
+linkedin_username: abhinavkurada
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: e86f974d8e6e5c39
 
 # Build settings
 markdown: kramdown
