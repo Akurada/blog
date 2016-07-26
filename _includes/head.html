@@ -4,7 +4,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
-
+    <meta name="keywords" content="Abhinav, Kurada, Engineer, Creator, Entrepreneur, Builder, Biology, Medicine, Columbia, Egleston, Finance, Startups">
+	<meta name="author" content="Abhinav Kurada">
+	<meta name="language" content="English">
+	<meta name="msvalidate.01" content="15783F244D43A708622370B735908DC6" />
+	<meta property="og:title" content="Abhinav Kurada | Engineer. Creator. Entrepreneur. Columbia University."/>
+	<meta property="og:url" content="http://akurada.tech/blog/"/>
+	<meta property="fb:app_id" content="1822670604630103"/>
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -31,5 +37,5 @@
     <![endif]-->
 
     {% feed_meta %}
-
+    {% seo %}
 </head>
