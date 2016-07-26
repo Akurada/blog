@@ -16,6 +16,14 @@ facebook_username:  abhinav.kurada
 email_username:  abhinav.kurada@columbia.edu
 linkedin_username: abhinavkurada
 
+logo: /img/circular.png
+
+image:
+  twitter: /img/nyc.jpg
+  facebook: /img/nyc.jpg
+  height: 100
+  width: 100
+
 author:
   twitter: abhinavkurada
   
