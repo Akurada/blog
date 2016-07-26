@@ -16,6 +16,8 @@ facebook_username:  abhinav.kurada
 email_username:  abhinav.kurada@columbia.edu
 linkedin_username: abhinavkurada
 
+author:
+  twitter: abhinavkurada
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: e86f974d8e6e5c39
