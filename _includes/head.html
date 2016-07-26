@@ -10,11 +10,11 @@
 	<meta name="msvalidate.01" content="15783F244D43A708622370B735908DC6" />
 <!--	<meta property="og:title" content="Abhinav Kurada | Engineer. Creator. Entrepreneur. Columbia University."/>
 	<meta property="og:url" content="http://akurada.tech/blog/"/>
-	<meta property="og:image" content= "http://akurada.tech/blog/img/nyc.jpg" /> -->
+	 -->
 	<meta property="fb:app_id" content="1822670604630103"/>
 	
 	 <!-- facebook Open Graph Metadatas -->
- 
+    <meta property="og:image" content= "http://akurada.tech/blog/img/nyc.jpg" />
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
       <meta content="{{ page.title }}" property="og:title">
@@ -33,6 +33,8 @@
     {% endif %}
     {% if page.url %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+      {% else %}
+      <meta content="http://akurada.tech/blog/" property="og:url"> 
     {% endif %}
     {% if page.date %}
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
@@ -64,6 +66,8 @@
     {% endif %}
     {% if page.url %}
       <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+      {% else %}
+      <meta property="og:url" content="http://akurada.tech/blog/"/>
     {% endif %}
     {% if page.description %}
       <meta name="twitter:description" content="{{ page.description }}">
@@ -72,6 +76,8 @@
     {% endif %}
     {% if page.header-img %}
       <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
+        {% else %}
+    <meta property="twitter:image:src" content= "http://akurada.tech/blog/img/nyc.jpg" />
     {% endif %}
 	
 	
