@@ -8,7 +8,7 @@ header-img: "img/MetroHacks-Coding-Wall.png"
 ---
 <p> Over the last couple of days, my team and I have had some time to reflect on the event and all it took to get to the May 21–22 weekend. Most of all, we reflected on our participants and how much fun they had at the event. </p>
 
-<blockquote>MetroHacks was created by high schoolers for high schoolers. </blockquote>
+<h2 class="section-heading">MetroHacks was created by high schoolers for high schoolers. </h2>
 
 <p> Our focus during the event, before the event, and after the event has always been on the participants. And as the planning for next year’s event commences, that focus will not change. </p>
 
@@ -20,18 +20,19 @@ header-img: "img/MetroHacks-Coding-Wall.png"
 
 <p> The event kicked off and ended with incredible speakers. Representatives from Microsoft, Google, The Institute for the Future of Learning, Intel, Harvard Graduate School of Education and Red Hat were very inspiring. They spoke about the benefit of hackathons, reforming education, how to work well in a group, diversification of ideas, hardware, coding and other important themes of a hackathon. They were all extremely well-spoken, and our participants learned a ton about a diversity of fields. </p>
 
-<p> Our participants were incredibly hard working. They formed teams quickly and got straight to work. You could almost see a sort of invisible silos forged from concentration between each of the teams. While this sounds productive, this was not the collaborative vision of MetroHacks. I immediately set about bringing a more connected aspect to the event and between participants, by getting our hackers to network with each other, talk about their hacks and discuss common problems. That was the real goal of this hackathon — communication. </p>
+<p> Our participants were incredibly hard working. They formed teams quickly and got straight to work. You could almost see a sort of invisible silos forged from concentration between each of the teams. While this sounds productive, this was not the collaborative vision of MetroHacks. I immediately set about bringing a more connected aspect to the event and between participants, by getting our hackers to network with each other, talk about their hacks and discuss common problems.</p>
 
-<p>
-Students who come out of a CS classroom education are quick to delve into problems by themselves. They limit themselves to a small team or to what a Google search can achieve. </p> 
+<blockquote>That was the real goal of this hackathon — communication. </blockquote>
 
-<blockquote>However, they often miss what is right in front of them: their peers. </blockquote> 
+<p>Students who come out of a CS classroom education are quick to delve into problems by themselves. They limit themselves to a small team or to what a Google search can achieve. </p> 
+
+<h2 class="section-heading">However, they often miss what is right in front of them: their peers.  </h2> 
 
 <p> At a hackathon, fellow hackers are the greatest resource available. All it takes is a simple “Hey I’ve been stuck on a small problem. Have you ever run into something like this before?”. Peer to peer thinking can create diverse, efficient, and out of the box solutions to a difficult problem. All my team and I had to do were act as a catalyst to get people a little out of their comfort zone and talk with other groups. That is when the magic of a hackathon happens. </p>
 
 <p> Our participants had the opportunity to attend workshops and speeches from some of our sponsors and speakers. My team and I were so impressed by these seminars. Not only were they so well done, but they presented high-level coding and thinking in a way that was easy to grasp. Our participants loved it. I met a couple of groups who even chose to forgo working on their hack. One girl even said “The workshops are just so incredible. I’d love to work on a project, but the amount I’m learning from these workshops just makes me want to keep going to more and more!” My team and I were extremely proud of this. Not only hackers able to hack and learn from others but they were able to attend workshops to learn about things they may have never encountered before. </p>
 
-<p>My team and I are proud of many things that MetroHacks was able to accomplish. However, we are proudest of the culture that MetroHacks cultivated. The organizing team did not solely make this culture. In fact, the culture at a hackathon is something that cannot be pre-engineered. It can’t be planned. It justs happens. We loved the culture that our participants made. It was amazingly non-competitive. Groups worked diligently on their projects, but there was never a sense of competition or one group thinking themselves to be better than any other group. I believe part of this has to do with the diversity that MetroHacks achieved. Not only diversity in its participants, but also diversity in the software used. MetroHacks participants used over 50 different technologies. That’s amazing. Most hackathons focus on a couple of platforms — Android, iOS, Javascript, node.js. Our attendees took up the challenge to explore diverse systems such as Azure and Redshift.</p>
+<h2 class="section-heading"> My team and I are proud of many things that MetroHacks was able to accomplish. </h2> <p>However, we are proudest of the culture that MetroHacks cultivated. The organizing team did not solely make this culture. In fact, the culture at a hackathon is something that cannot be pre-engineered. It can’t be planned. It justs happens. We loved the culture that our participants made. It was amazingly non-competitive. Groups worked diligently on their projects, but there was never a sense of competition or one group thinking themselves to be better than any other group. I believe part of this has to do with the diversity that MetroHacks achieved. Not only diversity in its participants, but also diversity in the software used. MetroHacks participants used over 50 different technologies. That’s amazing. Most hackathons focus on a couple of platforms — Android, iOS, Javascript, node.js. Our attendees took up the challenge to explore diverse systems such as Azure and Redshift.</p>
 
 <a href="https://www.flickr.com/photos/143863313@N02/sets/72157666684543924/with/26832883613/">
     <img src="{{ site.baseurl }}/img/MetroHacks-Coding-Wall.png" alt="MetroHacks Coding Wall" align="middle">
@@ -48,4 +49,4 @@ Students who come out of a CS classroom education are quick to delve into proble
 </a>
 <span class="caption text-muted">The MetroHacks organizing team with guest speaker Dr. Paul Reville.</span>
 
-<p>More photographs can be seen in our <a href="https://www.flickr.com/photos/143863313@N02/sets/72157666684543924/with/26832883613/">MetroHacks Album</a></p>
+<p>More photographs can be seen in our <a href="https://www.flickr.com/photos/143863313@N02/sets/72157666684543924/with/26832883613/">MetroHacks Album</a>.</p>
