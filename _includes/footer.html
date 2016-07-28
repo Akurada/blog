@@ -52,7 +52,7 @@
                         </a>
                     </li>
                     {% endif %}
-                     
+                      {% if site.email %}
                     <li>
                             <a target="_blank" href = "mailto:&#097;&#098;&#104;&#105;&#110;&#097;&#118;&#046;&#107;&#117;&#114;&#097;&#100;&#097;&#064;&#099;&#111;&#108;&#117;&#109;&#098;&#105;&#097;&#046;&#101;&#100;&#117;" ></a>
 
@@ -62,7 +62,7 @@
                             </span>
                         </a>
                     </li>
-                     
+                      {% endif %}
                 </ul>
                 <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
             </div>
