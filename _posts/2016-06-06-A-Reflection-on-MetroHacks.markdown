@@ -4,7 +4,7 @@ title:      "A Reflection on MetroHacks"
 subtitle:   "It’s a little breathtaking, and honestly, a little saddening to say this, but MetroHacks 2016 is over."
 date:       2016-06-06 12:00:00
 author:     "Abhinav Kurada"
-header-img: "img/MetroHacks-Coding-Wall.png"
+header-img: "img/Coding-Wall2.png"
 ---
 <p> Over the last couple of days, my team and I have had some time to reflect on the event and all it took to get to the May 21–22 weekend. Most of all, we reflected on our participants and how much fun they had at the event. </p>
 
